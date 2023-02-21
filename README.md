@@ -4,6 +4,9 @@ JSON Template for custom spell
 
 ## Files Overview
 
+Template JSON files required to add a new spell to Blade and Sorcery. Example in image below where east spell has been added
+<img src="https://i.imgur.com/vSUnqyN.png"/>
+
 ### Spell_IceBall
 
 Spell JSON. Configure features of your spell such as throwing, spraying and imbuement, select charge effects, and link to your spell's DLL.
